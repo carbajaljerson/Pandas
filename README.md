@@ -6,11 +6,11 @@
 
 
 
-Este repositorio contiene un conjunto de herramientas y consultas que exploran y analizan datos de autos utilizando la librería Pandas en Python. El análisis abarca desde tareas básicas hasta operaciones más intermedias.
+Este repositorio contiene un conjunto de consultas que exploran y analizan datos de autos utilizando la librería Pandas de Python. El análisis abarca desde tareas básicas hasta operaciones más intermedias.
 
 ### Contenido del Repositorio
 
-- Notebook principal con el código y análisis detallado.
+- 2 Notebooks (principal y otra en version colab) con el código y análisis detallado.
 - Conjunto de datos utilizado para el análisis.
 
 
