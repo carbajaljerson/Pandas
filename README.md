@@ -1,8 +1,4 @@
-<center>
-
-# Análisis de Datos con Pandas
-</center>
-
+# <center>Análisis de Datos con Pandas</center>
 <p align="center">
 <img src="src\image01.png"  height=300 weight=700>
 </p>
