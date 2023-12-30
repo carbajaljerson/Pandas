@@ -1,4 +1,4 @@
-# <p align="center">Análisis de Datos con Pandas</p>
+# <p align="center">Exploración de Datos con Pandas</p>
 
 <p align="center">
 <img src="src\image01.png"  height=300 weight=700>
