@@ -1,11 +1,8 @@
-# <center>Análisis de Datos con Pandas</center>
+# <p align="center">Análisis de Datos con Pandas</p>
+
 <p align="center">
 <img src="src\image01.png"  height=300 weight=700>
 </p>
-
-
-
-
 
 
 
@@ -36,10 +33,6 @@ Este repositorio contiene un conjunto de herramientas y consultas que exploran y
 ### Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o mejoras potenciales, no dudes en comentarlo.
-
-### Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ### 🛠 Tecnologías Utilizadas
 
