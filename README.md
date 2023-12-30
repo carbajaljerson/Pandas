@@ -1,6 +1,3 @@
-# PandasCarAnalysis
-
-
 # Análisis de Datos de Autos con Pandas
 
 ![Auto](link a una imagen relacionada con autos)
