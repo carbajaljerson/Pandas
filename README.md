@@ -10,7 +10,7 @@ Este repositorio contiene un conjunto de consultas que exploran y analizan datos
 
 ### Contenido del Repositorio
 
-- 2 Notebooks (principal y otra en version colab) con el código y análisis detallado.
+- 2 Notebooks (principal y otra en version Google-Colab) con el código y análisis detallado.
 - Conjunto de datos utilizado para el análisis.
 
 
