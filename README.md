@@ -30,6 +30,23 @@ Este repositorio contiene un conjunto de consultas que exploran y analizan datos
 - Agrupacion por columna
 - Ordenamiento de Datos
 
+
+### Ejecución en Google Colab
+
+La sección de Importación de librerías debería quedar de la siguiente forma 
+
+```bash
+from google.colab import drive
+import pandas as pd
+```
+
+Se debe añadir luego la sección de Directorio de Datos para el acceso a la carpeta donde se encuenta el Dataset
+
+```bash
+drive.mount('/content/drive')
+%cd '/content/drive/MyDrive/data'
+```
+
 ### Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o mejoras potenciales, no dudes en comentarlo.
