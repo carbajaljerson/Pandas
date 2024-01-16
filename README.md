@@ -9,7 +9,7 @@ This repository contains a set of queries that explore and analyze car data usin
 ### Content
 
 Notebooks with code and comments.
-Dataset used for the analysis.
+Dataset used for exploration with the Pandas library.
 
 
 ### Execution in Google Colab
