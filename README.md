@@ -1,10 +1,11 @@
 # <p align="center">Data Exploration with Pandas</p>
 
 <p align="center">
-<img src="src\image01.png"  height=300 weight=700>
+<img src="src\logo.png"  height=400 weight=700>
 </p>
 
-This repository contains a set of queries that explore and analyze car data using the Python Pandas library. The level of the exercises undertaken covers operations from the most basic to intermediate.
+This repository contains a set of queries that explore and analyze car data using the Python's Pandas library. The level of the exercises undertaken covers operations from the most basic to intermediate.
+
 
 ### Content
 
@@ -12,6 +13,11 @@ Notebooks with code and comments.
 Dataset used for exploration with the Pandas library.
 
 
+- DataFrameOperations
+
+    This notebook includes activities such as exploring DataFrame rows with iloc (index) and loc (labels), calculating the number of duplicates, generating descriptive statistics, changing column names, filtering, grouping, and aggregating columns.
+
+    
 ### Execution in Google Colab
 
 The Library Import section should be as follows
